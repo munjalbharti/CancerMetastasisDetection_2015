@@ -1,0 +1,17 @@
+%These APIs were used from Aggnet
+S. Albarqouni, C. Baur, F. Achilles, V. Belagiannis, S. Demirci, N. Navab 
+AggNet: Deep Learning from Crowds for Mitosis Detection in Breast Cancer Histology Images 
+IEEE Transactions on Medical Imaging (TMI), Special Issue on Deep Learning, vol. 35, no. 5, pp. 1313 - 1321, 2016.
++CNN/ErrorFn.m
++CNN/EvalStruct.m
++IMDB/shuffle.m
+
+
+%The evaluation api was given by camelyon challenge
+%https://grand-challenge.org/site/camelyon16/evaluation/
+
+Evaluation/compute_FP_TP_Probs.m
+Evaluation/computeEvaluationMask.m
+Evaluation/generateFROC.m
+Evaluation/computeFROC.m
+Evaluation/computeITCList.m
